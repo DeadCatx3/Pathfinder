@@ -1,4 +1,4 @@
-# Pathfinder: A Multi-threaded API & File Fuzzer
+# Pathfinder: A Multi-threaded API, Directory & File Fuzzer
 
 Pathfinder is a powerful, multi-threaded Python script designed for efficiently discovering API endpoints, hidden files, and directories on web applications. It supports recursive scanning, allows for custom "not found" keywords, and provides detailed real-time output.
 
